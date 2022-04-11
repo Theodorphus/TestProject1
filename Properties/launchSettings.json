@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestProject1": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\.Net\\TestProject1\\Program.cs"
+    }
+  }
+}
